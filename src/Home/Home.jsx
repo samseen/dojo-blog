@@ -1,19 +1,20 @@
-import React from 'react';
+import React, { useState } from 'react';
 
 const Home = () => {
-    const handleClick = (e) => {
-        console.log('Hello Ninjas', e);
-    }
+    // let name = 'Mario';
+    const [name, setName] = useState('Mario');
+    const [age, setAge] = useState(25);
 
-    const handleClickWithParenthesis = (name, e) => {
-        console.log('hello ' + name, e.target);
+    const handleClick = (e) => {
+        setName('Luigi');
+        setAge(30);
     }
 
     return (
         <div className="home">
             <h2>Home Page</h2>
+            <p>{ name } is { age } years old</p>
             <button onClick={handleClick}>Click Me</button>
-            <button onClick={(e) => handleClickWithParenthesis('mario', e)}>Click Me</button>
         </div>
     )
 }
