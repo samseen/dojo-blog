@@ -1,16 +1,28 @@
 {
-    "blogs": [
-        {
-            "title": "Mapping the global spread of the coronavirus",
-            "body": "The coronavirus pandemic has reshaped the world. What began as a mysterious pneumonia-like illness in Wuhan, China, has spread—two to three people at a time—across 216 countries and territories.\nAs of March 19, 2021, the disease has infected more than 121,927,780 people, with 2,692,794 reported deaths. North and South America are the worst struck regions in terms of case count and fatalities, but Asia is not far behind, due mostly to surges in India. The global economy has plummeted, as containment and mitigation efforts continue to interrupt manufacturing, education, the financial sector, and many other walks of life.",
-            "author": "Paul Buffa",
-            "id": 1
-        },
-        {
-            "title": "Coronavirus in the U.S.: Where cases are growing and declining",
-            "body": "Overall, cases in the United States are falling, but not quite as steeply as hoped. And spikes in several states have experts concerned another surge may be on the way.\nIn the past 14 days, deaths in the U.S. declined by 38 percent compared to the previous two-week period, and hospitalizations fell by 19 percent. Those are promising trends, says the nation’s top infectious disease expert, Anthony Fauci. Yesterday, he told colleagues at a Senate hearing that the medical community is doing a good job completing between two and three million shots per day. If this continues, the country should remain ahead in the “race between our ability to vaccinate people and the emergence of variants,” Fauci said.",
-            "author": "Arthuro Vidal",
-            "id": 2
-        }
-    ]
+  "blogs": [
+    {
+      "title": "Mapping the global spread of the coronavirus",
+      "body": "The coronavirus pandemic has reshaped the world. What began as a mysterious pneumonia-like illness in Wuhan, China, has spread—two to three people at a time—across 216 countries and territories.\nAs of March 19, 2021, the disease has infected more than 121,927,780 people, with 2,692,794 reported deaths. North and South America are the worst struck regions in terms of case count and fatalities, but Asia is not far behind, due mostly to surges in India. The global economy has plummeted, as containment and mitigation efforts continue to interrupt manufacturing, education, the financial sector, and many other walks of life.",
+      "author": "Paul Buffa",
+      "id": 1
+    },
+    {
+      "title": "Coronavirus in the U.S.: Where cases are growing and declining",
+      "body": "Overall, cases in the United States are falling, but not quite as steeply as hoped. And spikes in several states have experts concerned another surge may be on the way.\nIn the past 14 days, deaths in the U.S. declined by 38 percent compared to the previous two-week period, and hospitalizations fell by 19 percent. Those are promising trends, says the nation’s top infectious disease expert, Anthony Fauci. Yesterday, he told colleagues at a Senate hearing that the medical community is doing a good job completing between two and three million shots per day. If this continues, the country should remain ahead in the “race between our ability to vaccinate people and the emergence of variants,” Fauci said.",
+      "author": "Arthuro Vidal",
+      "id": 2
+    },
+    {
+      "title": "Hello Ninja",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "Sample",
+      "body": "Lorem text",
+      "author": "yoshi",
+      "id": 4
+    }
+  ]
 }
